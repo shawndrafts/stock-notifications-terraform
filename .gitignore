@@ -198,3 +198,6 @@ override.tf.json
 terraform.rc
 
 .terraform.lock.hcl
+
+# macOS
+.DS_Store
