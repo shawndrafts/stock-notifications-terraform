@@ -1,5 +1,5 @@
 # Stock Notification System 
-Updated Version of previous project https://github.com/maxter97/stock-notifications 
+Updated Version of previous project https://github.com/shawndrafts/stock-notifications 
 ## Overview
 Creating a stock notification system to send real-time data on your favorte stocks to users thought email and/or text. Now using terraform!
 
